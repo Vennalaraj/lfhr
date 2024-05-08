@@ -1,13 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
 import Apform from './Main/apform';
+import StructuresForm from './Main/StructuresForm';
 
 function App() {
   return (
     <div>
-      tesitng
-     <Apform>
-      </Apform>
+     <StructuresForm>
+      </StructuresForm>
   </div>    
   );
 }
