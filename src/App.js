@@ -1,12 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-import apform from './Main/apform';
+import Apform from './Main/apform';
 
 function App() {
   return (
     <div>
-     <apform>
-      </apform>
+     <Apform>
+      </Apform>
   </div>    
   );
 }
