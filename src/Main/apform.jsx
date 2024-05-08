@@ -1,4 +1,4 @@
-function apform(){
+function Apform(){
     return (
         <div>
     <h2> <center> Application form for Personal Leave </center></h2> 
@@ -48,4 +48,4 @@ function apform(){
 </div>
     ); 
 }
-export default apform;
+export default Apform;
